@@ -1,4 +1,4 @@
-#script para clonar el core y todos los repositorios OCA versión 13
+﻿#script para clonar el core y todos los repositorios OCA versión 13
 
 git clone -b 13.0 https://github.com/OCA/OCB   							    	./odoo
 
